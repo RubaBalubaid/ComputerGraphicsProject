@@ -9,6 +9,7 @@ production of the first Saudi-made electronic chips.
 
 ## Tools and Software:
 - **Programming Language:** C++
+- **IDEs:** Visual Studio
 - **Libraries:** OpenGL for creating interactive simulations and animations.
 <br>
 
