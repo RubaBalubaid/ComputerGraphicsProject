@@ -10,9 +10,11 @@ production of the first Saudi-made electronic chips.
 ## Tools and Software:
 - **Programming Language:** C++
 - **Libraries:** OpenGL for creating interactive simulations and animations.
+<br>
 
 ## Documentation
 [Demo](https://github.com/RubaBalubaid/ComputerGraphicsProject/blob/main/projectDemo.mov)<br>
+<br>
 
 ## Authors
 - Ruba Balubaid
